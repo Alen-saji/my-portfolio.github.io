@@ -1,6 +1,6 @@
 <!-- Stylish GitHub Profile README for Alen P Saji -->
 
-# 👋 Hi, I'm Alen P Saji!
+# 👋 Hi, I'm Alen Saji!
 
 **Full Stack Developer | Python & JavaScript Enthusiast**
 
